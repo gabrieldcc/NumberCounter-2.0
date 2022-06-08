@@ -10,7 +10,7 @@ import UIKit
 class Numeros: NSObject {
     
     //MARK: Atributos
-    var collectionNumbers: [Int] = [0]
+    var collectionNumbers: [Int] = [100000]
     
     
     //MARK: Métodos
